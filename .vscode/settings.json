@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "settings/calc-setting.json",
+        "settings/calc-setting.example.json"
+      ],
+      "url": "./settings/calc-setting.schema.json"
+    }
+  ]
+}
